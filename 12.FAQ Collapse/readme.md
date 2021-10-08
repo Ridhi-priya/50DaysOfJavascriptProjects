@@ -1,3 +1,3 @@
 # FAQ Collapse
 
-Live Link: https://faq2.netlify.app/
+Live Link: <a href="https://faq2.netlify.app/">Live Link</a>
