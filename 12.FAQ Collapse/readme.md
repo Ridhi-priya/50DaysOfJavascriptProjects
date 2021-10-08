@@ -1,3 +1,3 @@
 # FAQ Collapse
 
-Live Link: 
+Live Link: https://faq2.netlify.app/
